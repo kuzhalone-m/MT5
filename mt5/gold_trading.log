@@ -1,0 +1,23 @@
+2026-03-03 12:35:52,177 - INFO - Detected Broker GMT Offset: +2.0 hours
+2026-03-03 12:40:38,097 - INFO - Shutdown complete.
+2026-03-03 12:40:44,709 - INFO - Detected Broker GMT Offset: +2.0 hours
+2026-03-03 13:31:37,723 - INFO - Shutdown complete.
+2026-03-03 13:31:43,039 - INFO - Detected Broker GMT Offset: +2.0 hours
+2026-03-03 14:14:58,760 - INFO - Daily reset. Starting equity: 8817.84
+2026-03-03 14:14:58,956 - INFO - Executed SELL 0.01 at 5305.81
+2026-03-03 15:10:49,843 - INFO - Executed SELL 0.01 at 5260.78
+2026-03-03 17:03:47,045 - INFO - Shutdown complete.
+2026-03-03 17:03:49,215 - INFO - Detected Broker GMT Offset: +2.0 hours
+2026-03-03 17:03:49,235 - INFO - Daily reset. Starting equity: 8848.75
+2026-03-03 17:03:49,422 - INFO - Executed SELL 0.01 at 5093.97
+2026-03-03 17:15:47,692 - INFO - Shutdown complete.
+2026-03-03 17:16:58,685 [INFO] Broker GMT offset: +2h
+2026-03-03 17:16:58,695 [INFO] Signal SELL score=6.0 details={'trend': '+2.5 bear', 'price_ema9': '+1.5 bear', 'macd': '+2.0 bear', 'rsi': '+2.0 oversold-reversal', 'bb': '+1.5 lower-band bounce'}
+2026-03-03 17:18:23,716 [WARNING] MT5 terminal lost — reconnecting in 10s…
+2026-03-03 17:18:33,724 [INFO] Broker GMT offset: +2h
+2026-03-03 17:18:33,724 [INFO] Reconnected.
+2026-03-03 18:45:00,032 [INFO] Day reset | starting equity: 8761.81
+2026-03-03 18:45:00,230 [INFO] Slippage: 103.0 pts (requested 5165.73, filled 5166.76)
+2026-03-03 18:45:00,259 [INFO] Signal SELL score=6.0 details={'trend': '+2.5 bear', 'price_ema9': '+1.5 bear', 'macd': '+2.0 bear'}
+2026-03-03 19:18:00,802 [INFO] Signal SELL score=6.0 details={'trend': '+2.5 bear', 'price_ema9': '+1.5 bear', 'macd': '+2.0 bear'}
+2026-03-03 19:29:56,010 [INFO] Signal SELL score=6.0 details={'trend': '+2.5 bear', 'price_ema9': '+1.5 bear', 'macd': '+2.0 bear'}
